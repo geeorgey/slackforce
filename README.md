@@ -37,6 +37,7 @@ If you haven't already done so, follow the steps below to create a Salesforce co
     - For **SF_CLIENT_SECRET**, enter the Consumer Secret of your Salesforce Connected App
     - For **SF_USER_NAME**, enter the the username of your Salesforce integration user
     - For **SF_PASSWORD**, enter the the username of your Salesforce integration user
+    - For **SF_LOGIN_URL**, enter the the URL of your Salesforce login
     - Leave **SLACK_ACCOUNT_TOKEN** blank for now.
     - Leave **SLACK_CONTACT_TOKEN** blank for now.
     - Leave **SLACK_OPPORTUNITY_TOKEN** blank for now.
